@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_more"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="More From ApkZube"
+        android:iconTint="@color/colorPrimary"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_rateus"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Rate Us"
+        android:iconTint="@color/colorPrimaryDark"
+       app:showAsAction="always"/>
+
+</menu>

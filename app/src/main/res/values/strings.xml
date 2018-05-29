@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ML Kit</string>
+
+    <string name="title_activity_live__demo">Live_Demo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="url_githube">http://www.githube.com</string>
+</resources>

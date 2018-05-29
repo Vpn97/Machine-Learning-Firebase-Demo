@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_faceDetection"
+        android:icon="@drawable/ic_center_focus_strong_black_24dp"
+        android:title="Face Detection" />
+    <item
+        android:id="@+id/menu_textDetection"
+        android:icon="@drawable/ic_text_format_black_24dp"
+        android:title="Text Detection" />
+    <item
+        android:id="@+id/menu_barocdeDetection"
+        android:icon="@drawable/ic_line_style_black_24dp"
+        android:title="Barcode Detection" />
+    <item
+        android:id="@+id/menu_labelDetection"
+        android:icon="@drawable/ic_aspect_ratio_black_24dp"
+        android:title="Label Detection" />
+    <item
+        android:id="@+id/menu_classification"
+        android:icon="@drawable/ic_wb_iridescent_black_24dp"
+        android:title="Classification" />
+</menu>
